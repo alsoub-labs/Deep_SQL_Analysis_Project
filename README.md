@@ -35,4 +35,18 @@ To use these scripts:
 This project is licensed under the **MIT License**.
 
 ## Contributors
-*   **OmarSoub** (alsoub-labs) - Lead Developer [2].
+----------
+
+*   **OmarSoub** (alsoub-labs).
+
+
+## *Feedback*
+
+*If you have any feedback, please reach out to us at omars.soub@gmail.com*
+
+## 🔗 Links
+
+[*my github page-https://github.com/omars1234*](https://github.com/omars1234)
+
+## *🛠 Skills*
+*Python, R, SQL ,PowerBi ,Tableaue*
