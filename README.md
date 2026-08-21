@@ -46,7 +46,7 @@ This project is licensed under the **MIT License**.
 
 ## 🔗 Links
 
-[*my github page-https://github.com/omars1234*](https://github.com/omars1234)
+[*my github page-https://github.com/alsoub-labs*](https://github.com/alsoub-labs)
 
 ## *🛠 Skills*
 *Python, R, SQL ,PowerBi ,Tableaue*
