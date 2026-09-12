@@ -6,9 +6,9 @@ This repository, maintained by **alsoub-labs (OmarSoub)**, contains a comprehens
 ## Project Overview
 The **Deep SQL Analysis Project** provides a structured approach to analyzing data using SQL. It includes specialized scripts for performance monitoring, geographical analysis, and statistical methods like Pareto analysis.
 
-## *[A Data-Driven Framework for Agricultural Market Strategy](https://docs.google.com/presentation/d/e/2PACX-1vRPi6pWw4U9_V2Jr8w6CNlx37okyKgrl4rn_0nfISaDzENpn5nnUSxRBlzSNnUr_dAtmXBlokuaUmVm/pubembed?start=false&loop=false&delayms=3000)*
+## *[Deriving Actionable Insights Through Advanced SQL Queries](https://docs.google.com/presentation/d/e/2PACX-1vRPi6pWw4U9_V2Jr8w6CNlx37okyKgrl4rn_0nfISaDzENpn5nnUSxRBlzSNnUr_dAtmXBlokuaUmVm/pubembed?start=false&loop=false&delayms=3000)*
 
-
+----
 
 <details>
   <summary>🔍 Click here to preview Framework </summary>
@@ -33,7 +33,7 @@ The **Deep SQL Analysis Project** provides a structured approach to analyzing da
   </table>
 </details>
 
-
+---
 
 ## Key Analysis Scripts
 The repository includes the following SQL files, each targeting a specific analytical need:
