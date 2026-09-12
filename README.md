@@ -6,6 +6,35 @@ This repository, maintained by **alsoub-labs (OmarSoub)**, contains a comprehens
 ## Project Overview
 The **Deep SQL Analysis Project** provides a structured approach to analyzing data using SQL. It includes specialized scripts for performance monitoring, geographical analysis, and statistical methods like Pareto analysis.
 
+## *[A Data-Driven Framework for Agricultural Market Strategy](https://docs.google.com/presentation/d/e/2PACX-1vRPi6pWw4U9_V2Jr8w6CNlx37okyKgrl4rn_0nfISaDzENpn5nnUSxRBlzSNnUr_dAtmXBlokuaUmVm/pubembed?start=false&loop=false&delayms=3000)*
+
+
+
+<details>
+  <summary>🔍 Click here to preview Framework </summary>
+  <br>
+  <table>
+    <tr>
+      <td><img src="Deep_SQL_Analysis_Project_Slides/Slide1.PNG"alt="Slide1" width="100%"></td>
+      <td><img src="Deep_SQL_Analysis_Project_Slides/Slide2.PNG" alt="Slide2" width="100%"></td>
+    </tr>
+    <tr>
+      <td><img src="Deep_SQL_Analysis_Project_Slides/Slide3.PNG" alt="Slide 3" width="100%"></td>
+      <td><img src="Deep_SQL_Analysis_Project_Slides/Slide4.PNG" alt="Slide 4" width="100%"></td>
+    </tr>
+    <tr>
+      <td><img src="Deep_SQL_Analysis_Project_Slides/Slide5.PNG" alt="Slide 5" width="100%"></td>
+      <td><img src="Deep_SQL_Analysis_Project_Slides/Slide6.PNG" alt="Slide 6" width="100%"></td>
+    </tr>
+    <tr>
+      <td><img src="Deep_SQL_Analysis_Project_Slides/Slide7.PNG" alt="Slide 7" width="100%"></td>
+      <td><img src="Deep_SQL_Analysis_Project_Slides/Slide8.PNG" alt="Slide 8" width="100%"></td>
+    </tr>
+  </table>
+</details>
+
+
+
 ## Key Analysis Scripts
 The repository includes the following SQL files, each targeting a specific analytical need:
 
